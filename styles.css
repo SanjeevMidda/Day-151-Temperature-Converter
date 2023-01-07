@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+h2{
+    color: red;
+}
+
+.result{
+    margin-top: 20px;
+}
+
+input{
+    margin-top: 10px;
+}
